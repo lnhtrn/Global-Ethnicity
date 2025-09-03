@@ -1,7 +1,7 @@
 # LLMs as Sociologists: Leveraging AI/ML Contextual Knowledge for Social Oppression
 
 ## Poster Presentation 
-[Poster File]
+[Poster File](/LLM%20Sociologist%20Poster.pdf)
 
 ## Paper: Measuring Identity-Based Oppression via Rule-Guided Prompting of Large Language Models
 [Paper in Progress]
